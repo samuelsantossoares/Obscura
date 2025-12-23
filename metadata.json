@@ -1,0 +1,8 @@
+{
+  "name": "Obscura AI Interface Engineer",
+  "description": "A futuristic AI-powered UI/UX engineering assistant that transforms prompts into functional, elegant web interfaces with real-time preview and code generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
